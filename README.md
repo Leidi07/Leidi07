@@ -1,16 +1,15 @@
-## Hi there 👋
+## BOAS VINDAS A MEU PERFIL! ✨ 
 
-<!--
-**Leidi07/Leidi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É LEIDIANE OLIVEIRA💙
 
-Here are some ideas to get you started:
+-ESTOU ESTUDANDO NA PLATAFORMA ALURA;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-ESTOU CURSANDO A PRIMEIRA SÉRIE DO ENSINO MÉDIO;
+
+-NESTE ESPAÇO COMPARTILHAREI MEUS PROJETOS ESCOLARES;
+
+-SE QUISER ENTRAR EM CONTATO COMIGO, BASTA ACESSAR ESTE E-MAIL📮 :
+LEIDIANEOLIVEIRA@GMAIL.COM
+
+![](![image](https://github.com/user-attachments/assets/71b9811c-c04e-4354-823f-b4350f7107ed)
+
